@@ -53,19 +53,10 @@ I'm passionate about **JWT authentication**, **REST API development**, **real-ti
 
 ---
 
-## 🏆 Certifications & Internships
-
-- **Information Technology Institute (ITI)** – Full Stack .NET Intensive (Clean Architecture, Agile, SOLID)
-- **Black Horse Academy** – React & Next.js Advanced
-- **ACM-ICPC HIET Luxor** – Head of Technical Team & Problem Solving Leader (260+ problems on Codeforces)
-
----
-
 ## 📫 Let's Connect
 
 - 📧 **Email:** mohamed.wahed.work@gmail.com  
 - 💼 **LinkedIn:** [Mohamed Wahed Ramadan](https://linkedin.com/in/mohamed-wahed-ramadan)  
-- 📂 **GitHub:** [Mohamed-Wahed-Ramadan](https://github.com/Mohamed-Wahed-Ramadan)  
 - 📱 **Phone:** (+20) 1123002663  
 
 ---
