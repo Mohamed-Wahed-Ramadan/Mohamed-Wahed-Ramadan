@@ -53,19 +53,6 @@ I'm passionate about **JWT authentication**, **REST API development**, **real-ti
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| **Gymunity Platform** | Fitness platform with real-time chat between trainers & trainees, notifications, workout plans. | ASP.NET Core Web API, Angular, SignalR, SQL Server, JWT |
-| **ItsQahwa Platform** | Coffee farm supply & equipment manufacturing management system. | React.js, ASP.NET Core, EF Core, SQL Server |
-| **LegalAhmed Platform** | Law firm case management system. | Next.js, ASP.NET Core Web API, JWT |
-| **Pschola Platform** | Student/teacher mobile apps + admin dashboard + marketing website. | Flutter, Next.js, React.js, Firebase, Redux |
-
-> 💡 *“I focus on delivering production-ready systems with clean architecture and real-time features.”*
-
----
-
 ## 🏆 Certifications & Internships
 
 - **Information Technology Institute (ITI)** – Full Stack .NET Intensive (Clean Architecture, Agile, SOLID)
