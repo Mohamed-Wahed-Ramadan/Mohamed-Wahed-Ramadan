@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mohamed Wahed Ramadan</h1>
+<h1 align="center">👋 Hi, I'm Mohamed Wahed Koriem</h1>
 <h3 align="center">Full-Stack Developer | .NET & React/Next.js | Building Production Systems</h3>
 
 <p align="center">
@@ -67,15 +67,7 @@ I'm passionate about **JWT authentication**, **REST API development**, **real-ti
 - 💼 **LinkedIn:** [Mohamed Wahed Ramadan](https://linkedin.com/in/mohamed-wahed-ramadan)  
 - 📂 **GitHub:** [Mohamed-Wahed-Ramadan](https://github.com/Mohamed-Wahed-Ramadan)  
 - 📱 **Phone:** (+20) 1123002663  
-- 🌍 **Location:** Cairo, Egypt | Military service: ✅ Completed
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Wahed-Ramadan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Wahed-Ramadan&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 ⭐️ *Feel free to explore my repositories and reach out for collaborations or freelance opportunities!*
